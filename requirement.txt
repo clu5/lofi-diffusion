@@ -1,0 +1,14 @@
+diffusers
+transformers
+accelerate
+scipy
+safetensors
+tqdm
+torch
+torchvision
+scipy
+numpy
+matplotlib
+scikit-image
+opencv-python
+lpips
